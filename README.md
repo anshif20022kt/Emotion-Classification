@@ -82,8 +82,8 @@ Classification Report:
 
 ## Author
 
-- Team: [Your Name / Team Name]
-- Contact: [your.email@example.com]
+- Team: [MUHAMMED ANSHIF KT]
+- Contact: [muhammedkt.ds24@duk.ac.in]
 
 ## License
 
